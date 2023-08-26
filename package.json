@@ -1,0 +1,24 @@
+{
+  "name": "js-01",
+  "version": "1.0.0",
+  "description": "CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\"\"\u001b[D\u0016https://github.com/sgrischenko8/node-js-01-CLI-app\"\u001b[3~\u001b[3~\u001b[3~"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4"
+  }
+}
